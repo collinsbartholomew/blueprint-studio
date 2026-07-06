@@ -97,7 +97,7 @@ export const services = [
   {
     slug: "interior-design",
     name: "Blueprint Studio",
-    tagline: "Architecture tagline: "Detail – Attention – Harmony" Interior Design",
+    tagline: "Architecture tagline: Detail – Attention – Harmony Interior Design",
     description: "From concept to completion, we craft interiors that reflect your personality and lifestyle. Every material, color, and layout is chosen with intention.",
     image: "https://minnaro.vamtam.com/wp-content/uploads/2025/05/shivani-chougula-IBzfpFgUNuw-unsplash-682x1024.jpg",
     href: "/services/interior-design",
