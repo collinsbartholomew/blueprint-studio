@@ -105,7 +105,7 @@ export const services = [
   {
     slug: "lighting-design",
     name: "Blueprint Studio",
-    tagline: "Architecture tagline: "Atmosphere – Focus – Harmony" Interior Design",
+    tagline: "Architecture tagline: Atmosphere – Focus – Harmony Interior Design",
     description: "Light shapes how we feel in a space. We design lighting schemes that enhance mood, highlight architecture, and bring warmth to every room.",
     image: "https://minnaro.vamtam.com/wp-content/uploads/2025/05/anton-sobotyak-8og8EDtnc9w-unsplash-682x1024.jpg",
     href: "/services/lighting-design",
@@ -113,7 +113,7 @@ export const services = [
   {
     slug: "bespoke-furnishings",
     name: "Blueprint Studio",
-    tagline: "Architecture tagline: "Essence - Attention - Mood" Interior Design",
+    tagline: "Architecture tagline: Essence - Attention - Mood Interior Design",
     description: "We design and source custom furniture, textiles, and objects that perfectly suit your space — pieces that feel made for you, because they are.",
     image: "https://minnaro.vamtam.com/wp-content/uploads/2025/05/GettyImages-1353481343-682x1024.jpg",
     href: "/services/bespoke-furnishings",
@@ -121,7 +121,7 @@ export const services = [
   {
     slug: "construction",
     name: "Blueprint Studio",
-    tagline: "Architecture tagline: "Mood – Clarity – Ambience" Interior Design",
+    tagline: "Architecture tagline: Mood – Clarity – Ambience Interior Design",
     description: "We manage every phase of the build process, coordinating trades, overseeing quality, and ensuring the design vision is executed flawlessly.",
     image: "https://minnaro.vamtam.com/wp-content/uploads/2025/05/GettyImages-1360691299-682x1024.jpg",
     href: "/services/construction",
